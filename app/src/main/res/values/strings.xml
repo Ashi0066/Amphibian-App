@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amphibians app</string>
+    <string name="error">"Error loading Image "</string>
+</resources>
